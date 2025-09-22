@@ -137,4 +137,7 @@ title('Butterworth Highpass IIR Filter Frequency Response');
 
 ## RESULT: 
 
+The design of an IIR Butterworth filter  using SCILAB is sucessfully completed. 
+
+
 
